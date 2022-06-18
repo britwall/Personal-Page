@@ -1,0 +1,10 @@
+body
+h1 { text-align: center;}
+  
+
+p { width:1000px; background-color:#000000; padding:10px;border-radius: 25px; margin-left:50px;}
+
+
+ul li { 
+  list-style: square;
+  color: #ffffff;}
